@@ -1,0 +1,3 @@
+[submodule "DesignPattern/vendor"]
+	path = DesignPattern/vendor
+	url = https://github.com/google/googletest.git
